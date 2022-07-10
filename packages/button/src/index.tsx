@@ -10,7 +10,7 @@ export interface Props {
 const Button = (props: Props) => {
   return (
     <AntdButton type={props.type}>
-      测试Button
+      测试Button-
       {props.children}
     </AntdButton>
   );
