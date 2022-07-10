@@ -8,6 +8,11 @@
     "types": ["jest"],
     "strict": true,
     "skipLibCheck": true,
-    "declaration": true
+    "declaration": true,
+    // 添加组件目录
+    "paths": {
+      "@joern/button": ["./packages/button/src/index.tsx"],
+      "@joern/tag": ["./packages/tag/src/index.tsx"]
+    }
   }
 }
