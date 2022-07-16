@@ -1,6 +1,14 @@
 {
   "name": "@joern/button",
   "version": "0.0.0",
+  "description": "test button",
+  "publishConfig": {
+    "access": "public"
+  },
+  "scripts": {
+    "build": "father-build",
+    "prepublish": "father-build"
+  },
   "keywords": [],
   "license": "MIT",
   "main": "lib/index.js",
