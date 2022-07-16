@@ -22,5 +22,6 @@
   "dependencies": {
     "@joern/button": "^1.0.0",
     "@joern/tag": "^1.0.0"
-  }
+  },
+  "gitHead": "ab6aa6a22079f956769c8a6ec77bb8ddd87af1c5"
 }

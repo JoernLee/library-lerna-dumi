@@ -6,7 +6,7 @@ export interface Props {
 }
 
 const Tag = (props: Props) => {
-  return <AntdTag title={props.title}>Tag</AntdTag>;
+  return <AntdTag title={props.title}>Tag2</AntdTag>;
 };
 
 export default Tag;

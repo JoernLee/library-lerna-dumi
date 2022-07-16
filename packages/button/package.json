@@ -18,5 +18,6 @@
     "antd": "4.x",
     "react": ">=16.9.0",
     "react-dom": ">=16.9.0"
-  }
+  },
+  "gitHead": "ab6aa6a22079f956769c8a6ec77bb8ddd87af1c5"
 }
