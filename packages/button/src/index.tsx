@@ -13,7 +13,7 @@ export interface Props {
 const Button: React.FC<Props> = (props: Props) => {
   return (
     <AntdButton type={props.type}>
-      测试Button2-
+      测试Button3-
       {props.children}
     </AntdButton>
   );

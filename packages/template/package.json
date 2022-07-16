@@ -1,6 +1,6 @@
 {
   "name": "@joern/template",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "test template",
   "publishConfig": {
     "access": "public"
@@ -20,8 +20,8 @@
     "react-dom": ">=16.9.0"
   },
   "dependencies": {
-    "@joern/button": "^1.0.0",
-    "@joern/tag": "^1.0.0"
+    "@joern/button": "^1.0.1",
+    "@joern/tag": "^1.0.1"
   },
-  "gitHead": "ab6aa6a22079f956769c8a6ec77bb8ddd87af1c5"
+  "gitHead": "4d4add28cdf9aa2f31a00fe233f29d92955ddbf7"
 }
