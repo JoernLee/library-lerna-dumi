@@ -11,20 +11,12 @@
   },
   "keywords": [],
   "license": "MIT",
-  "main": "lib/index.js",
-  "module": "es/index.js",
-  "types": "lib/index.d.ts",
-  "files": [
-    "lib",
-    "es",
-    "dist"
-  ],
+  "main": "dist/index.js",
+  "module": "dist/index.ems.js",
+  "types": "dist/index.d.ts",
   "peerDependencies": {
     "antd": "4.x",
     "react": ">=16.9.0",
     "react-dom": ">=16.9.0"
-  },
-  "publishConfig": {
-    "registry": "https://registry.npmjs.org"
   }
 }
